@@ -1,2 +1,3 @@
-# power-line-recognition
-CNN-based power line recognition
+Code used in the following paper:
+
+[CNN-based power line recognition](...)

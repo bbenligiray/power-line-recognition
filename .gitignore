@@ -1,0 +1,12 @@
+Power_Line_Database (Infrared-IR and Visible Light-VL)/
+PL_raw/
+__MACOSX/
+log/
+
+*.pyc
+*.zip
+*.p
+*.cp
+*.txt
+*.h5
+*.mat
