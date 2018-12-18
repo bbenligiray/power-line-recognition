@@ -1,3 +1,3 @@
 Code used in the following paper:
 
-[CNN-based power line recognition](...)
+[Power Line Recognition from Aerial Images with Deep Learning](...)
